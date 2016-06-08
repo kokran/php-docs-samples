@@ -1,4 +1,4 @@
-application: {{your_project_id}}
+application: {{dotted-howl-129316}}
 version: 1
 module: phpmyadmin
 runtime: php55
