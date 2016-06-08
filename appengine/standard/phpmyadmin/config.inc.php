@@ -22,7 +22,7 @@
  * cookie
  * http://www.question-defense.com/tools/phpmyadmin-blowfish-secret-generator
  */
-$cfg['blowfish_secret'] = '{{your_secret}}'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
+$cfg['blowfish_secret'] = '{{GXDl6M^IWUp#kU-bMeU$tcdm%ctCPxpo(A^7a9DC4GTRz}}'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
 
 /*
  * Servers configuration
@@ -30,7 +30,7 @@ $cfg['blowfish_secret'] = '{{your_secret}}'; /* YOU MUST FILL IN THIS FOR COOKIE
 $i = 0;
 
 // Change this to use the project and instance that you've created.
-$host = '/cloudsql/{{your_project_id}}:{{your_cloudsql_instance}}';
+$host = '/cloudsql/{{dotted-howl-129316}}:{{wordpress-multisite-1-vm}}';
 $type = 'socket';
 
 /*
