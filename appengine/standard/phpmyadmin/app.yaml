@@ -1,6 +1,6 @@
-application: {{your_project_id}}
+application: {{dotted-howl-129316}}
 version: 1
-module: phpmyadmin
+module: default
 runtime: php55
 api_version: 1
 
